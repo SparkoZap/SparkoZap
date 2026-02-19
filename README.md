@@ -13,11 +13,18 @@ I'm a student programmer who loves working on videogames, scripts, and low-level
 * 🎨 Most of my projects combine both art and programming
 * 🎓 I'm currently a Computer Science student in the US
 * 👾 I also make Minecraft Plugins and Mods for other games
-  
+
+<br>
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Spark_O)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/StatisticianFit9547/)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/sparkozap)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](toastlytoast)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sparkozap@gmail.com)
+
 ---
 
 <p align="center"> ⭐ Feel free to provide feedback and contribute, I'm always happy to learn :] </p>
-<p align="center"> This is a temporary layout btw... </p>
 
 ---
 
@@ -30,5 +37,3 @@ I'm a student programmer who loves working on videogames, scripts, and low-level
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
----
