@@ -14,4 +14,4 @@ I'm a bit of a jack of all trades!
 * Rust
 * Python
 
-[Stats](github-readme-stats-toast-gamma-35.vercel.app)
+[![Sparko's GitHub stats](https://github-readme-stats-sparkozap.vercel.app/api?username=sparkozap)](https://github.com/anuraghazra/github-readme-stats)
