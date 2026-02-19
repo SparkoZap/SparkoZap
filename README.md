@@ -21,8 +21,6 @@ I'm a student programmer who loves working on videogames, scripts, and low-level
 
 ---
 
-[![Sparko's GitHub stats](https://github-readme-stats-sparkozap.vercel.app/api?username=sparkozap)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
