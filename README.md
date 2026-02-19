@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey Peeps
 
-<!--
-**SparkoZap/SparkoZap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Who am I?
+My name is Spark,
+I'm an aspiring Artist/Animator, Video Editor, and Video Game Programmer.
+As much as I'd like to settle down with one hobby, I tend to branch out into trying out different things.
+I'm a bit of a jack of all trades!
 
-Here are some ideas to get you started:
+# Languages I know
+* C/C++
+* C#
+* Java
+* JavaScript
+* Rust
+* Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Stats](github-readme-stats-toast-gamma-35.vercel.app)
